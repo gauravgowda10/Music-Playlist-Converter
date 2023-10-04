@@ -1,0 +1,21 @@
+{
+  "name": "authorization-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gaurav Gowda",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "querystring": "^0.2.1",
+    "querystrings": "^0.4.0",
+    "request": "^2.88.2",
+    "requests": "^0.3.0"
+  }
+}

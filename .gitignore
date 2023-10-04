@@ -1,0 +1,4 @@
+.DS_Store
+.env
+
+authorization-server/node_modules/
